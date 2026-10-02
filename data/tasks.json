@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lab71",
+    "course": "CS 351",
+    "title": "Run this Node app locally and check the page",
+    "due": "2026-10-04",
+    "done": false
+  },
+  {
+    "id": "github",
+    "course": "CS 351",
+    "title": "Commit the lab and push it to GitHub",
+    "due": "2026-10-04",
+    "done": false
+  },
+  {
+    "id": "project1",
+    "course": "CS 351",
+    "title": "Review Project 1 before the next class",
+    "due": "2026-10-09",
+    "done": false
+  }
+]

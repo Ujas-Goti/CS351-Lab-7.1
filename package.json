@@ -1,0 +1,10 @@
+{
+  "name": "lab-7-1",
+  "version": "1.0.0",
+  "description": "CS 351 Lab 7.1 — a local assignment desk built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true
+}
